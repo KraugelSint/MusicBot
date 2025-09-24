@@ -1,14 +1,14 @@
 module.exports = {
-    TOKENS: ["MTQxNjE0MTY4NTExMjQzODk5Ng.GSRPE9.wD0gBSeyfExnbFENIRulgX2c-RRyxqthdS-8MM"],
-    ownerID: ["767370753879441439"], //write your discord user id. example: ["id"] or ["id1","id2"]
-    botInvite: "https://discord.com/oauth2/authorize?client_id=1416141685112438996&permissions=8&integration_type=0&scope=bot", //write your discord bot invite.
-    supportServer: "https://discord.gg/7K5PT5jdZt", //write your discord bot support server invite.
-    mongodbURL: "mongodb+srv://martialgod:martialgod@discordbot.amorhnk.mongodb.net/?retryWrites=true&w=majority&appName=DiscordBot", //write your mongodb url.
-    status: 'Develop by krugel',
+    TOKENS: 
+    ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
+    botInvite: "", //write your discord bot invite.
+    supportServer: "", //write your discord bot support server invite.
+    mongodbURL: "", //write your mongodb url.
+    status: '',
     commandsDir: './commands', //Please don't touch
     language: "en", //ar, de, en, es, fr, id, it, ja, nl, pt, ru, tr, zh_TW
     embedColor: "ffa954", //hex color code
-    errorLog: "1416149675253305427", //write your discord error log channel id.
+    errorLog: "", //write your discord error log channel id.
 
 
     playlistSettings: {
